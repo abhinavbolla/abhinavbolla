@@ -11,4 +11,4 @@ I grew up in Hyderabad and have been in Stockholm since 2023. I've always needed
 - [My AI is a very confident intern](https://www.abhinavbolla.com/posts/my-ai-is-a-very-confident-intern/)
 - [Building for Windows is harder than it should be](https://www.abhinavbolla.com/posts/windows-is-harder-than-it-should-be/)
 
-[Website](https://www.abhinavbolla.com) · [LinkedIn](https://www.linkedin.com/in/abhinav-bolla) · [Email](mailto:bollaabhinav2412@gmail.com)
+[Website](https://www.abhinavbolla.com) · [LinkedIn](https://www.linkedin.com/in/abhinav-bolla) · [X](https://x.com/AbhinavBolla) · [Email](mailto:bollaabhinav2412@gmail.com)
